@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "IkMAd/tenk7AKNcBCCxF4qJDCs+9xCUnUhZ5nl0b+Ao=",
+  "Source": "Lab_9",
+  "BasePath": "_content/Lab_9",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab_9\\wwwroot",
+      "Source": "Lab_9",
+      "ContentRoot": "C:\\Users\\xiaomi\\Desktop\\Бэк\\Lab_9\\Lab_9\\wwwroot\\",
+      "BasePath": "_content/Lab_9",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\xiaomi\\Desktop\\Бэк\\Lab_9\\Lab_9\\wwwroot\\index.html",
+      "SourceId": "Lab_9",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\xiaomi\\Desktop\\Бэк\\Lab_9\\Lab_9\\wwwroot\\",
+      "BasePath": "_content/Lab_9",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
